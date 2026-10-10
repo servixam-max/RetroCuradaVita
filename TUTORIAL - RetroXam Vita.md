@@ -9,7 +9,7 @@ Con esta guía tu PS Vita queda con:
 
 > **Flujo en 5 pasos:** Liberar → SD2Vita → Copiar kit → Instalar VPKs → Abrir RetroXam y jugar.
 >
-> ⚡ **Atajo (recomendado):** conecta la Vita por **FTP** (VitaShell → SELECT) y ejecuta en el PC **`INSTALAR VITA.bat`** del Escritorio: te sube TODO a su sitio solo: configs, BIOS, VPKs, datos del N64, caratulas y el extra de PSP. Después solo instalas los VPKs con X.
+> ⚡ **Atajo (recomendado):** conecta la Vita al PC — **USB** (VitaShell → START → SELECT = USB → O → SELECT → cable; *lo más rápido*) o **FTP** (SELECT) — y ejecuta el instalador del PC (`INSTALAR VITA (USB - rapido).bat` o `INSTALAR VITA.bat`): te copia TODO a su sitio solo (configs, BIOS, VPKs, datos del N64, carátulas y plugins). Después: **reinicia una vez**, instala los VPKs con X y a jugar.
 
 ---
 
@@ -79,7 +79,7 @@ Con esta guía tu PS Vita queda con:
 
 ## 📁 PARTE 2 — Copiar el kit a la Vita
 
-> ⚡ **Si usas `INSTALAR VITA.bat` (PC + FTP)**: esta parte y las copias de config/BIOS las hace él solo. Salta directamente a la Parte 3 a instalar los VPKs.
+> ⚡ **Si usas un instalador del PC** (`INSTALAR VITA (USB - rapido).bat` por **USB = mucho más rápido**, o `INSTALAR VITA.bat` por FTP): esta parte y TODAS las copias (config, BIOS, N64, carátulas, plugins) las hace él solo. Salta directamente a la Parte 3.
 
 1. En la Vita abre **VitaShell** (si no lo tienes: VitaDeploy → App Downloader → VitaShell).
 2. Conecta por **USB**: pulsa **START** (ajustes) y comprueba que el botón SELECT está en modo **USB**; cierra con **O** y pulsa **SELECT** → conecta el cable al PC.
